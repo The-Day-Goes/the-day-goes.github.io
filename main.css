@@ -60,7 +60,7 @@ a {
 }
 
 .subtitle {
-	font-size: 2em;
+	font-size: 1.2em;
 	margin: .5em 0 .5em;
 	font-family: Lora, serif;
 	font-weight: 500;
@@ -78,3 +78,36 @@ a {
 		font-size: 2em
 	}
 }
+
+.intro {
+	margin-bottom: .75em;
+	font-family: Lora, serif;
+	font-weight: 400;
+	font-style: italic
+}
+
+.fab,
+.fas {
+	padding: .25em;
+	text-align: center;
+	text-decoration: none;
+	color: #fff
+}
+
+.fab:hover,
+.fas:hover {
+	opacity: .7
+}
+
+
+.footer-link {
+	position: fixed;
+	left: 50%;
+	bottom: 20px;
+	transform: translate(-50%, -50%);
+	margin: 0 auto;
+	font-family: Lora, serif;
+	font-weight: 400;
+	font-size: .75em
+}
+
