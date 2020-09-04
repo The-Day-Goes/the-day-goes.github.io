@@ -40,7 +40,7 @@ class TextScramble {
 		return this.chars[Math.floor(Math.random() * this.chars.length)]
 	}
 }
-const phrases = ["Error 404"],
+const phrases = ["ERROR 404"],
 	el = document.querySelector(".scramble"),
 	fx = new TextScramble(el);
 let counter = 0;
