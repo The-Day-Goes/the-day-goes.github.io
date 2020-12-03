@@ -1,6 +1,3 @@
-/*! Flickity v2.2.1
-https://flickity.metafizzy.co
----------------------------------------------- */
 .flickity-enabled {
   position: relative;
 }
@@ -1097,19 +1094,7 @@ footer .footer-section.footer-social ul li a svg {
 footer .footer-section.footer-social ul li a:hover svg {
   fill: #ff872b;
 }
-footer .footer-section.footer-social .bigcartel-credit {
-  white-space: nowrap;
-}
-footer .footer-section.footer-social .bigcartel-credit a {
-  color: #ff9d52;
-  font-size: 12px;
-}
-footer .footer-section.footer-social .bigcartel-credit a:hover {
-  color: #ff9d52;
-}
-footer .footer-section.footer-social ul + .bigcartel-credit {
-  margin-top: 10px;
-}
+
 @media screen and (max-width: 1024px) {
   footer .footer-section {
     border-bottom: solid 2px #ffffff;
