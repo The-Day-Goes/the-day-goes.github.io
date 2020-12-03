@@ -2821,3 +2821,11 @@ input:hover {
 .streaming-links a:hover {
   color: #FFE8AF;
 }
+
+section .gradient, .bank-note {
+  opacity: 0.75;
+}
+
+.welcome-messaging {
+  opacity: 1;
+}
