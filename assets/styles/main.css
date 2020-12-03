@@ -1092,18 +1092,18 @@ footer .footer-section.footer-social ul li a {
   display: block;
 }
 footer .footer-section.footer-social ul li a svg {
-  fill: #ff872b;
+  fill: #ff9d52;
   height: 24px;
   width: 24px;
 }
 footer .footer-section.footer-social ul li a:hover svg {
-  fill: #ff9d52;
+  fill: #ff872b;
 }
 footer .footer-section.footer-social .bigcartel-credit {
   white-space: nowrap;
 }
 footer .footer-section.footer-social .bigcartel-credit a {
-  color: #ff872b;
+  color: #ff9d52;
   font-size: 12px;
 }
 footer .footer-section.footer-social .bigcartel-credit a:hover {
@@ -2818,4 +2818,8 @@ input:hover {
   display: block;
   text-align: center;
   text-decoration: none;
+}
+
+.streaming-links a:hover {
+  text-shadow: 3px 3px 3px #FF872B;
 }
