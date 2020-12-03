@@ -1894,7 +1894,7 @@ button.reset-selection-button {
   height: 55px;
   line-height: 55px;
   margin: 0 auto;
-  width: 350px;
+  width: 255px;
 }
 .welcome .pattern {
   height: 100%;
@@ -2004,7 +2004,7 @@ h1.featured-title {
 }
 .featured .featured-details .feature-text .button {
   margin: 0 auto;
-  max-width: 350px;
+  max-width: 255px;
   width: 100%;
 }
 @media screen and (max-width: 768px) {
@@ -2810,7 +2810,7 @@ input:hover {
   height: 55px;
   line-height: 55px;
   margin: 0 auto;
-  width: 350px;
+  width: 255px;
   border: solid 2px #fff;
   color: #fbffe2;
   background-color: #ff9d52;
